@@ -1,4 +1,4 @@
-# Zima Spring Backend
+# Photo Album Spring Backend
 
 ## Technologies Used
 
